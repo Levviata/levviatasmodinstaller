@@ -1,0 +1,16 @@
+[
+{
+  "modid": "levviatasmodinstaller",
+  "name": "Levviata's Mod Installer",
+  "description": "Installs mod for you, handy for modpacks.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Levviata"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
